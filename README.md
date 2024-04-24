@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Nilecars(car marketplace)**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on [FrontEnd Development](ringmadat.netlify.app)
 
