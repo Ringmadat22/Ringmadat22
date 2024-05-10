@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer</h3>
 
 
-- 🔭 I’m currently working on **Nilecars(car marketplace)**
+- 🔭 I’m currently working on Nilecars(car marketplace)
 
 - 🌱 I’m currently learning **Python**
 
