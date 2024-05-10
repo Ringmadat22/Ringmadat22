@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on FrontEnd Development(ringmadat.netlify.app)
+- 👯 I’m looking to collaborate on FrontEnd Development
 
 - 🤝 I’m looking for help with **Majorly backend**
 
