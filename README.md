@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **html css javascript python MERN**
 
-- ⚡ Fun fact **Hardworking, Basketball player ,**
+- ⚡ Fun fact **Hardworking, Basketball player ,** 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
