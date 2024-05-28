@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on Nilecars(car marketplace)
+- 🔭 I’m currently working on Nile Jobs
 
 - 🌱 I’m currently learning **Python**
 
