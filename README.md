@@ -14,7 +14,7 @@
 - ⚡ Fun fact **Hardworking, Basketball player ,** 
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
