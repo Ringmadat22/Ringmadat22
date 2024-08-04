@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Ringo</h1>
 
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">Passionate Software Engineer</h3>
 
 - 🔭 I’m currently working on Nile Cars(Car Marketplace)
 
