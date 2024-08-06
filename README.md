@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on FrontEnd Development
+- 👯 I’m looking to collaborate on FrontEnd Development and backend 
 
 - 🤝 I’m looking for help with **Majorly backend**
 
