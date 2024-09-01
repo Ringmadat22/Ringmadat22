@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Nile Cars Applicaition(Car Marketplace)
 
-- 🌱 I’m currently learning **Python
+- 🌱 I’m currently learning Python
 
 - 👯 I’m looking to collaborate on FrontEnd Development and backend 
 
