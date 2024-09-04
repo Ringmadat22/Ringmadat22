@@ -15,8 +15,7 @@
 - 💬 Ask me about **html css javascript python MERN**
 
 - ⚡ Fun fact **Hardworking, Basketball player ,
-- 
-
+  
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
