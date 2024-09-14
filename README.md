@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on FrontEnd Development and backend 
 
-- 🤝 I’m looking for help with *Majorly backend**
+- 🤝 I’m looking for help with *Majorly backend
 
 - 💬 Ask me about **html css javascript python MERN**
 
